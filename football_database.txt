@@ -1,0 +1,2 @@
+Team: barca
+Player: nahian,23,CDM,0,0,70
